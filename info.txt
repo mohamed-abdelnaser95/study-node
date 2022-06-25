@@ -1,0 +1,5 @@
+for production environment write in terminal 
+    export NODE_ENV=production
+
+to return back to the development environment write in terminal
+    export NODE_ENV=development
